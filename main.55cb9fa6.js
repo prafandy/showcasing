@@ -4367,7 +4367,6 @@ if (false) { var UserForm_api; }
 UserForm_component.options.__file = "src/pages-vue/user/UserForm.vue"
 /* harmony default export */ var UserForm = (UserForm_component.exports);
 ;// CONCATENATED MODULE: ./src/index-vue.js
-var index_vue_dirname = "/";
 
 
 
@@ -4404,7 +4403,7 @@ vue_runtime_esm/* default.prototype.$url */.Z.prototype.$url = url; // function 
 
 var router = new vue_router_esm/* default */.Z({
   mode: 'history',
-  base: index_vue_dirname,
+  base: '/showcasing',
   scrollBehavior: function scrollBehavior(to, from, savedPosition) {
     return savedPosition || {
       x: 0,
@@ -4591,4 +4590,4 @@ module.exports = content.locals || {};
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ }
 ]);
-//# sourceMappingURL=main.0913f7f4.js.map
+//# sourceMappingURL=main.0402d446.js.map
