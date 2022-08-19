@@ -109,6 +109,8 @@ hr {
   .fs-italic#{$breakpoint} { font-style: italic }
   .fs-normal#{$breakpoint} { font-style: normal }
 
+  .fw-200#{$breakpoint}, .fw-normal#{$breakpoint} { font-weight: 200 }
+  .fw-300#{$breakpoint}, .fw-normal#{$breakpoint} { font-weight: 300 }
   .fw-400#{$breakpoint}, .fw-normal#{$breakpoint} { font-weight: 400 }
   .fw-500#{$breakpoint} { font-weight: 500 }
   .fw-600#{$breakpoint} { font-weight: 600 }

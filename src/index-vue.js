@@ -15,6 +15,8 @@ import UserList from /* webpackChunkName: 'user' */ '@/pages-vue/user/UserList.v
 import UserDatatables from /* webpackChunkName: 'user' */ '@/pages-vue/user/UserDatatables.vue';
 import UserForm from /* webpackChunkName: 'user' */ '@/pages-vue/user/UserForm.vue';
 
+import BintanElla from '@/pages-vue/BintanElla.vue';
+
 Vue.config.productionTip = false
 Vue.use(VueRouter)
 Vue.prototype.$t = i18next.t;
@@ -55,6 +57,10 @@ const router = new VueRouter({
               path: 'login',
               component: Login,
               meta: { requireAuth: false },
+            },
+            {
+              path: 'bintan-ella',
+              component: BintanElla,
             },
             {
               name: '404',
