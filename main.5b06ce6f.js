@@ -4403,6 +4403,7 @@ vue_runtime_esm/* default.prototype.$url */.Z.prototype.$url = url; // function 
 
 var router = new vue_router_esm/* default */.Z({
   mode: 'history',
+  // base: __dirname,
   base: '/showcasing',
   scrollBehavior: function scrollBehavior(to, from, savedPosition) {
     return savedPosition || {
@@ -4590,4 +4591,4 @@ module.exports = content.locals || {};
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ }
 ]);
-//# sourceMappingURL=main.0402d446.js.map
+//# sourceMappingURL=main.6746f3d3.js.map
