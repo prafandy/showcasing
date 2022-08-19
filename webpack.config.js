@@ -8,7 +8,6 @@ const path = require("path");
 
 module.exports = function(_env, argv) {
   const isProduction = argv.mode === "production";
-  const isDevelopment = !isProduction;
 
   const isReact = false;
   const isVue = !isReact;
@@ -25,6 +24,7 @@ module.exports = function(_env, argv) {
       filename: "[name].[contenthash:8].js",
       chunkFilename: "[name].[contenthash:8].js",
       sourceMapFilename: "[name].[contenthash:8].js.map",
+      publicPath: isProduction ? "/showcasing/" : "/",
     },
     module: {
       rules: [

@@ -28,6 +28,7 @@ Vue.prototype.$url = url;
 const router = new VueRouter({
   mode: 'history',
   base: __dirname,
+  // base: '/showcasing',
   scrollBehavior: (to, from, savedPosition) => savedPosition || { x: 0, y: 0 },
   routes: [
     {
