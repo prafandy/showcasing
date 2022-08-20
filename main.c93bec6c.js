@@ -4430,6 +4430,297 @@ var BintanEllavue_type_template_id_17e87cfe_staticRenderFns = [
           ]
         ),
       ]),
+      _vm._v(" "),
+      _c("div", [
+        _c(
+          "div",
+          { staticClass: "has-bg-img padding-y-92 text-center text-grayer" },
+          [
+            _c("div", {
+              staticClass: "bg-img bg-img-no-repeat",
+              staticStyle: {
+                "background-image":
+                  "url('https://groovepublic.com/wp-content/uploads/2022/03/shadow.png')",
+                opacity: "0.07",
+              },
+            }),
+            _vm._v(" "),
+            _c("div", {}, [
+              _c("img", {
+                staticClass: "margin-x-auto width-80px",
+                attrs: {
+                  src: "https://groovepublic.com/wp-content/uploads/2022/06/logoo.png",
+                },
+              }),
+            ]),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass: "ff-vibes fw-500 margin-top-60",
+                staticStyle: { "font-size": "44px", "letter-spacing": "2px" },
+              },
+              [_vm._v("\n        Qs Ar-rum 21\n      ")]
+            ),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass: "margin-top-28 margin-x-auto width-100",
+                staticStyle: { "font-size": "13px", "max-width": "546px" },
+              },
+              [
+                _vm._v(
+                  "\n        Maha Suci Allah yang telah menciptakan manusia dengan berpasang-pasangan. Dengan memohon Rahmat dan Ridho Allah SWT, kami bermaksud mengundang Saudara/i dalam acara resepsi pernikahan kami.\n      "
+                ),
+              ]
+            ),
+          ]
+        ),
+        _vm._v(" "),
+        _c(
+          "div",
+          {
+            staticClass: "padding-y-48",
+            staticStyle: { "background-color": "rgba(245, 245, 245, .2)" },
+          },
+          [
+            _c("div", { staticClass: "container" }, [
+              _c("div", { staticClass: "flex" }, [
+                _c("div", { staticClass: "width-50 text-center" }, [
+                  _c(
+                    "div",
+                    {
+                      staticClass: "fw-300 padding-bottom-20 text-dark",
+                      staticStyle: {
+                        "font-size": "15px",
+                        "letter-spacing": "10px",
+                      },
+                    },
+                    [_vm._v("\n              THE BRIDE\n            ")]
+                  ),
+                  _vm._v(" "),
+                  _c("div", [
+                    _c("img", {
+                      staticClass: "margin-x-auto rounded-8",
+                      staticStyle: { width: "400px" },
+                      attrs: {
+                        src: "https://groovepublic.com/wp-content/uploads/2022/05/3-_-4-Foto-bride-_-groom-mohon-di-cropcwk-e1652064144905.jpg",
+                      },
+                    }),
+                  ]),
+                ]),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "width-50 text-center flex flex-column flex-justify-center",
+                  },
+                  [
+                    _c(
+                      "div",
+                      {
+                        staticClass: "margin-x-auto margin-top-100 width-100",
+                        staticStyle: { "max-width": "384px" },
+                      },
+                      [
+                        _c(
+                          "div",
+                          {
+                            staticClass: "ff-plex fw-100",
+                            staticStyle: {
+                              color: "#423434",
+                              "font-size": "52px",
+                              "line-height": "60px",
+                            },
+                          },
+                          [
+                            _vm._v("\n                Ratna"),
+                            _c("br"),
+                            _vm._v("Alaska\n              "),
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c("hr", { staticClass: "border-light margin-y-24" }),
+                        _vm._v(" "),
+                        _c("div", {}, [
+                          _c(
+                            "span",
+                            {
+                              staticClass: "fw-500 text-grayer",
+                              staticStyle: { "font-size": "12px" },
+                            },
+                            [
+                              _vm._v(
+                                "\n                  Putri pertama dari:\n                "
+                              ),
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("br"),
+                          _vm._v(" "),
+                          _c(
+                            "span",
+                            {
+                              staticClass: "h4 fw-300 text-grayest",
+                              staticStyle: { "letter-spacing": "1.2px" },
+                            },
+                            [
+                              _vm._v(
+                                "\n                  Ratna Alaska & Ratna Alaska                  \n                "
+                              ),
+                            ]
+                          ),
+                        ]),
+                        _vm._v(" "),
+                        _c("hr", { staticClass: "border-light margin-y-24" }),
+                        _vm._v(" "),
+                        _c(
+                          "div",
+                          {
+                            staticClass: "text-grayer",
+                            staticStyle: { "font-size": "12px" },
+                          },
+                          [
+                            _c("img", {
+                              staticClass: "margin-right-4",
+                              staticStyle: { width: "16px" },
+                              attrs: {
+                                src: "https://www.clipartmax.com/png/middle/30-308556_joshua-fink-linkedin-grey-linkedin-logo-png.png",
+                              },
+                            }),
+                            _vm._v(
+                              "\n                linkedin\n              "
+                            ),
+                          ]
+                        ),
+                      ]
+                    ),
+                  ]
+                ),
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "flex margin-top-80" }, [
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "width-50 text-center flex flex-column flex-justify-center",
+                  },
+                  [
+                    _c(
+                      "div",
+                      {
+                        staticClass: "margin-x-auto margin-top-100 width-100",
+                        staticStyle: { "max-width": "384px" },
+                      },
+                      [
+                        _c(
+                          "div",
+                          {
+                            staticClass: "ff-plex fw-100",
+                            staticStyle: {
+                              color: "#423434",
+                              "font-size": "52px",
+                              "line-height": "60px",
+                            },
+                          },
+                          [
+                            _vm._v("\n                Bintan"),
+                            _c("br"),
+                            _vm._v("Pradika\n              "),
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c("hr", { staticClass: "border-light margin-y-24" }),
+                        _vm._v(" "),
+                        _c("div", {}, [
+                          _c(
+                            "span",
+                            {
+                              staticClass: "fw-500 text-grayer",
+                              staticStyle: { "font-size": "12px" },
+                            },
+                            [
+                              _vm._v(
+                                "\n                  Putri pertama dari:\n                "
+                              ),
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c("br"),
+                          _vm._v(" "),
+                          _c(
+                            "span",
+                            {
+                              staticClass: "h4 fw-300 text-grayest",
+                              staticStyle: { "letter-spacing": "1.2px" },
+                            },
+                            [
+                              _vm._v(
+                                "\n                  Ratna Alaska & Ratna Alaska                  \n                "
+                              ),
+                            ]
+                          ),
+                        ]),
+                        _vm._v(" "),
+                        _c("hr", { staticClass: "border-light margin-y-24" }),
+                        _vm._v(" "),
+                        _c(
+                          "div",
+                          {
+                            staticClass: "text-grayer",
+                            staticStyle: { "font-size": "12px" },
+                          },
+                          [
+                            _c("img", {
+                              staticClass: "margin-right-4",
+                              staticStyle: { width: "16px" },
+                              attrs: {
+                                src: "https://www.clipartmax.com/png/middle/30-308556_joshua-fink-linkedin-grey-linkedin-logo-png.png",
+                              },
+                            }),
+                            _vm._v(
+                              "\n                linkedin\n              "
+                            ),
+                          ]
+                        ),
+                      ]
+                    ),
+                  ]
+                ),
+                _vm._v(" "),
+                _c("div", { staticClass: "width-50 text-center" }, [
+                  _c(
+                    "div",
+                    {
+                      staticClass: "fw-300 padding-bottom-20 text-dark",
+                      staticStyle: {
+                        "font-size": "15px",
+                        "letter-spacing": "10px",
+                      },
+                    },
+                    [_vm._v("\n              THE GROOM\n            ")]
+                  ),
+                  _vm._v(" "),
+                  _c("div", [
+                    _c("img", {
+                      staticClass: "margin-x-auto rounded-8",
+                      staticStyle: { width: "400px" },
+                      attrs: {
+                        src: "https://groovepublic.com/wp-content/uploads/2022/05/3-_-4-Foto-bride-_-groom-mohon-di-cropcwk-e1652064144905.jpg",
+                      },
+                    }),
+                  ]),
+                ]),
+              ]),
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "padding-y-40" }),
+          ]
+        ),
+      ]),
     ])
   },
 ]
@@ -4447,6 +4738,96 @@ function BintanEllavue_type_script_lang_js_asyncGeneratorStep(gen, resolve, reje
 
 function BintanEllavue_type_script_lang_js_asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { BintanEllavue_type_script_lang_js_asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { BintanEllavue_type_script_lang_js_asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
 
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -4755,4 +5136,4 @@ module.exports = content.locals || {};
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ }
 ]);
-//# sourceMappingURL=main.92570af1.js.map
+//# sourceMappingURL=main.531b67dd.js.map
